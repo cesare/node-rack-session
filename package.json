@@ -1,5 +1,6 @@
 {
   "name": "rack-session",
+  "description": "Library to share sessions with Rack web apps",
   "version": "0.0.1",
   "main": "./lib/index.js",
   "scripts": {
