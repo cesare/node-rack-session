@@ -1,0 +1,16 @@
+{
+  "name": "rack-session",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "cookie": "~0.0.5",
+    "underscore": "~1.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-contrib-clean": "~0.4",
+    "grunt-contrib-coffee": "~0.5"
+  }
+}
