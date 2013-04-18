@@ -19,7 +19,7 @@ var config = {
 
 var io = require('socket.io').listen(3000);
 
-# create authorization function
+// create authorization function
 io.set('authorization', socketioAuthorization(config, function(handshake, session, callback) {
   this.log.debug(session);
   callback(null, true);
