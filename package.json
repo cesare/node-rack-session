@@ -12,5 +12,9 @@
     "grunt": "~0.4",
     "grunt-contrib-clean": "~0.4",
     "grunt-contrib-coffee": "~0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesare/node-rack-session.git"
   }
 }
