@@ -1,6 +1,7 @@
 {
   "name": "rack-session",
   "description": "Library to share sessions with Rack web apps",
+  "license": "MIT",
   "version": "0.0.1",
   "main": "./lib/index.js",
   "scripts": {
