@@ -2,6 +2,11 @@
   "name": "rack-session",
   "description": "Library to share sessions with Rack web apps",
   "license": "MIT",
+  "author": {
+    "name": "SAWADA Tadashi",
+    "email": "cesare@mayverse.jp",
+    "url": "https://github.com/cesare"
+  },
   "version": "0.0.1",
   "main": "./lib/index.js",
   "scripts": {
