@@ -5,7 +5,9 @@ rack-session enables to share session attributes among the Rack web application 
 
 ### Installation
 
-  $ npm install rack-session
+```bash
+$ npm install rack-session
+```
 
 ### Example
 
